@@ -1,0 +1,13 @@
+scale,type,prompt
+low,tumor nests,"""low magnification histopathology image showing invasive tumor nests surrounded by fibrotic stroma"""
+low,stromal fibrosis,"""low magnification histopathology image with dense stromal fibrosis and collagen deposition"""
+low,lymphocyte-rich region,"""low magnification histopathology image showing lymphocyte-rich tumor microenvironment"""
+low,necrosis region,"""low magnification histopathology image containing necrotic tumor regions"""
+low,ductal structure,"""low magnification histopathology image showing ductal tissue architecture"""
+low,adipose tissue,"""low magnification histopathology image with adipose tissue and sparse tumor infiltration"""
+high,pleomorphic nuclei,"""high magnification histopathology image with pleomorphic tumor nuclei"""
+high,hyperchromatic nuclei,"""high magnification histopathology image showing hyperchromatic malignant nuclei"""
+high,mitotic figures,"""high magnification histopathology image containing mitotic figures"""
+high,enlarged nuclei,"""high magnification histopathology image with enlarged irregular nuclei"""
+high,inflammatory cells,"""high magnification histopathology image showing inflammatory cell infiltration"""
+high,epithelial cells,"""high magnification histopathology image with epithelial cell morphology"""

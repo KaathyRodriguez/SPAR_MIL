@@ -1,0 +1,3 @@
+,train,val,test
+Normal,143,48,48
+Tumor,96,32,32

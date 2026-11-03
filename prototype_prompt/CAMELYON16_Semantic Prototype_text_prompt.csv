@@ -1,0 +1,11 @@
+scale,type,prompt
+low,lymph node architecture,"""low magnification histopathology image of normal lymph node architecture with preserved follicular structures"""
+low,metastatic nests,"""low magnification histopathology image showing metastatic tumor nests infiltrating lymph node tissue"""
+low,stromal reaction,"""low magnification histopathology image with desmoplastic stromal reaction surrounding tumor regions"""
+low,necrosis,"""low magnification histopathology image containing necrotic tumor areas"""
+low,heterogeneous distribution,"""low magnification histopathology image showing heterogeneous tumor distribution within lymph node"""
+high,pleomorphic nuclei,"""high magnification histopathology image with pleomorphic malignant epithelial nuclei"""
+high,hyperchromasia,"""high magnification histopathology image showing hyperchromatic tumor cells with enlarged nuclei"""
+high,mitosis,"""high magnification histopathology image containing mitotic figures in metastatic carcinoma"""
+high,lymphocyte infiltration,"""high magnification histopathology image showing dense lymphocyte infiltration"""
+high,gland formation,"""high magnification histopathology image with gland-forming metastatic carcinoma cells"""

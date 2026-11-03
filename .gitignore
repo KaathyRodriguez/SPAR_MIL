@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 大数据 / 权重
+datasets/
+features/
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.h5
+*.npy
+*.npz
+*.svs
+
+# 输出
+logs/
+runs/
+wandb/
+*.log
+
+# 本地配置
+.env
+*.local
